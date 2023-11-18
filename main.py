@@ -12,3 +12,5 @@ def another_func(num):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
+
+    print('final!111')
